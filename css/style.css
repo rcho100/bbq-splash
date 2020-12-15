@@ -11,6 +11,7 @@ body {
 h1 {
     font-size: 2.25rem;
     font-weight: 300;
+    color: #fff;
 }
 
 h1 + p {
@@ -40,4 +41,10 @@ h2 + p {
 .fine-print {
     font-size: 0.625rem;
     letter-spacing: 1px
+}
+
+.intro {
+    background-image: url(../images/dark-ribs.jpg);
+    background-color: #404040;
+    padding: 0 .25em 1em;
 }
