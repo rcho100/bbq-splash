@@ -76,4 +76,10 @@ h2 + p {
     h1 + p {
         font-size: 1.75rem;
     }
+
+    .intro,
+    .main-content {
+        width: 50%;
+        min-height: 100vh;
+    }
 }
